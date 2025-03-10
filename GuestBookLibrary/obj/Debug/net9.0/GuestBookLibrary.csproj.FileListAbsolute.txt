@@ -1,0 +1,11 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\bin\Debug\net9.0\GuestBookLibrary.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\bin\Debug\net9.0\GuestBookLibrary.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\bin\Debug\net9.0\GuestBookLibrary.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\obj\Debug\net9.0\GuestBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\obj\Debug\net9.0\GuestBookLibrary.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\obj\Debug\net9.0\GuestBookLibrary.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\obj\Debug\net9.0\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\obj\Debug\net9.0\GuestBookLibrary.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\obj\Debug\net9.0\refint\GuestBookLibrary.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\obj\Debug\net9.0\GuestBookLibrary.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\C#_MASTER_COURSE\0.2025_REDO\MiniProject_BetterGuestBook\GuestBookLibrary\obj\Debug\net9.0\ref\GuestBookLibrary.dll

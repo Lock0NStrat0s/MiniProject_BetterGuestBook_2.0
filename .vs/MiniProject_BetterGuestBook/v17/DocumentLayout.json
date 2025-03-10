@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_BetterGuestBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7575091C-59BD-4AFB-8390-D61357D37C80}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\iamtimcorey\\c#_master_course\\0.2025_redo\\miniproject_betterguestbook\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7575091C-59BD-4AFB-8390-D61357D37C80}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF04E6E-24EA-4B32-AE5F-590CCB4D06D1}|GuestBookLibrary\\GuestBookLibrary.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\iamtimcorey\\c#_master_course\\0.2025_redo\\miniproject_betterguestbook\\guestbooklibrary\\models\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF04E6E-24EA-4B32-AE5F-590CCB4D06D1}|GuestBookLibrary\\GuestBookLibrary.csproj|solutionrelative:guestbooklibrary\\models\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 242,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuestModel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_BetterGuestBook\\GuestBookLibrary\\Models\\GuestModel.cs",
+              "RelativeDocumentMoniker": "GuestBookLibrary\\Models\\GuestModel.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_BetterGuestBook\\GuestBookLibrary\\Models\\GuestModel.cs",
+              "RelativeToolTip": "GuestBookLibrary\\Models\\GuestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:37:02.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_BetterGuestBook\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\C#_MASTER_COURSE\\0.2025_REDO\\MiniProject_BetterGuestBook\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:00:59.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
