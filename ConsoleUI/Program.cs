@@ -7,36 +7,39 @@ namespace ConsoleUI;
 
 internal class Program
 {
+    private static List<GuestModel> guests = new();
     static void Main(string[] args)
     {
-        List<GuestModel> guests = new();
-        GetGuestInfo(guests);
+        GetGuestInfo();
+        PrintGuestInfo();
+    }
 
+    private static void PrintGuestInfo()
+    {
         guests.ForEach(x => x.GuestInfo());
     }
 
-    private static void GetGuestInfo(List<GuestModel> guests)
+    private static void GetGuestInfo()
     {
         bool moreGuests;
         do
         {
             GuestModel guest = new();
 
-            Console.Write("What is your first name? ");
-            guest.FirstName = Console.ReadLine();
-
-            Console.Write("What is your last name? ");
-            guest.LastName = Console.ReadLine();
-
-            Console.Write("What is your message to the host? ");
-            guest.MessageToHost = Console.ReadLine();
-
-            Console.Write("Are there more guests (y/n)? ");
-            moreGuests = Console.ReadLine() == "y" ? true : false;
+            guest.FirstName = GetInput("What is your first name? ");
+            guest.LastName = GetInput("What is your last name? ");
+            guest.MessageToHost = GetInput("What is your message to the host? ");
+            moreGuests = GetInput("Are there more guests (y/n)? ") == "y" ? true : false;
 
             guests.Add(guest);
             Console.Clear();
 
         } while (moreGuests);
+    }
+
+    private static string GetInput(string input)
+    {
+        Console.Write(input);
+        return Console.ReadLine();
     }
 }
